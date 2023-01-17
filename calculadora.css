@@ -1,0 +1,8 @@
+.display {
+    border: 1px solid black;
+}
+.col, .row{
+    border: 2px solid black;
+    margin: 4px;
+    align-content: center;
+}
